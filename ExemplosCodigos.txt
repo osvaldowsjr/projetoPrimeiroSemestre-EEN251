@@ -1,0 +1,9 @@
+
+Sensor distancia - os.mbed.com/components/HC-SR04
+
+Motor dc - os.mbed.com/components/DC-Motor
+Motor Passo - os.mbed.com/users/farbodjam/code/StepperMotor/docs/tip/StepperMotor_8h_source.html
+os.mbed.com/components/HC-05
+
+
+Modulo bluetooth - os.mbed.com/components/Adafruit-Bluefruit-LE-UART-Friend
